@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moneylog-react-website/static/css/main.9ad33c9f.chunk.css",
+    "main.js": "/moneylog-react-website/static/js/main.7bfeb80d.chunk.js",
+    "main.js.map": "/moneylog-react-website/static/js/main.7bfeb80d.chunk.js.map",
+    "runtime-main.js": "/moneylog-react-website/static/js/runtime-main.ddff77cd.js",
+    "runtime-main.js.map": "/moneylog-react-website/static/js/runtime-main.ddff77cd.js.map",
+    "static/js/2.f859e049.chunk.js": "/moneylog-react-website/static/js/2.f859e049.chunk.js",
+    "static/js/2.f859e049.chunk.js.map": "/moneylog-react-website/static/js/2.f859e049.chunk.js.map",
+    "index.html": "/moneylog-react-website/index.html",
+    "precache-manifest.c56f88aa891acd1a783af1d74b96f754.js": "/moneylog-react-website/precache-manifest.c56f88aa891acd1a783af1d74b96f754.js",
+    "service-worker.js": "/moneylog-react-website/service-worker.js",
+    "static/css/main.9ad33c9f.chunk.css.map": "/moneylog-react-website/static/css/main.9ad33c9f.chunk.css.map",
+    "static/js/2.f859e049.chunk.js.LICENSE.txt": "/moneylog-react-website/static/js/2.f859e049.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddff77cd.js",
+    "static/js/2.f859e049.chunk.js",
+    "static/css/main.9ad33c9f.chunk.css",
+    "static/js/main.7bfeb80d.chunk.js"
+  ]
+}
